@@ -1,5 +1,5 @@
 # Funiverse
-Welcome to the universe of fusion, here u will land to see how to different various models perform to serve a single purpose
+Welcome to the universe of fusion, here u will land to see how two different various models perform to serve a single purpose
 
 Models-
 ✨Resu-matic --> fusion for florence2 with gemini-1.5-pro 
